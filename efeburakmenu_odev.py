@@ -1,5 +1,5 @@
-#Efe Öztaş 220501014 Bilgisayar Mühendisliği 2. Sınıf
-#Başar Burak Ünal 220501014 Bilgisayar Mühendisliği 2. Sınıf
+#Efe Öztaş
+#Başar Burak Ünal
 
 
 from colorama import Fore, Style, init
